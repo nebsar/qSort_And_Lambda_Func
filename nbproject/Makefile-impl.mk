@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=qSort
+PROJECTNAME=qSort_And_Lambda_Func
 
 # Active Configuration
 DEFAULTCONF=Debug
